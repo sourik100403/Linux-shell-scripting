@@ -1,0 +1,5 @@
+id name salary country 
+1 sourik india 40000
+2 diya germany 500000
+3 smritikana france 40000
+
